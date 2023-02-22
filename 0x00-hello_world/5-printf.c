@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Return: 0 (Success)
+ * main - a program that prints exactly
+ * Return: 0(Success)
  */
 int main(void)
 {
