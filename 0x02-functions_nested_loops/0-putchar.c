@@ -4,6 +4,7 @@
  *
  * Return: 0 on sucess
  */
+
 int main(void)
 {
 _putchar('_');
@@ -17,4 +18,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
